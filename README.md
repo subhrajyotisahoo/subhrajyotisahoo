@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/25/aa/e1/25aae130a27abbdd3ddee8090ed9fe4b.gif)
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h1 align="center">Hi 👋, I'm Subhrajyoti Sahoo</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
