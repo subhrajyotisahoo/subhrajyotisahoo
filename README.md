@@ -1,4 +1,4 @@
-[![MasterHead]([https://cdn.dribbble.com/userupload/30726335/file/original-922d2c80e2a95ae3595e6a4acbde8b33.gif](https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?ga=GA1.1.1008061044.1733821603&semt=ais_hybrid)​)]
+![MasterHead](https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1742228248~exp=1742231848~hmac=f4b450878940f80fa31e7f5d146e657c228e661ba67537396fa6d082a0b5893f&w=1380)
 <h1 align="center">Hi 👋, I'm Subhrajyoti Sahoo</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
