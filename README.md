@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1742228248~exp=1742231848~hmac=f4b450878940f80fa31e7f5d146e657c228e661ba67537396fa6d082a0b5893f&w=1380)
+![MasterHead](https://i.pinimg.com/originals/25/aa/e1/25aae130a27abbdd3ddee8090ed9fe4b.gif)
 <h1 align="center">Hi 👋, I'm Subhrajyoti Sahoo</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
